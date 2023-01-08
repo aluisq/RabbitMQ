@@ -1,0 +1,12 @@
+D:\CSharp\ArthurCsharpSolutions\RabbitMQ\WebApi.Domain\bin\Debug\net6.0\WebApi.Domain.deps.json
+D:\CSharp\ArthurCsharpSolutions\RabbitMQ\WebApi.Domain\bin\Debug\net6.0\WebApi.Domain.dll
+D:\CSharp\ArthurCsharpSolutions\RabbitMQ\WebApi.Domain\bin\Debug\net6.0\WebApi.Domain.pdb
+D:\CSharp\ArthurCsharpSolutions\RabbitMQ\WebApi.Domain\obj\Debug\net6.0\WebApi.Domain.csproj.AssemblyReference.cache
+D:\CSharp\ArthurCsharpSolutions\RabbitMQ\WebApi.Domain\obj\Debug\net6.0\WebApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\ArthurCsharpSolutions\RabbitMQ\WebApi.Domain\obj\Debug\net6.0\WebApi.Domain.AssemblyInfoInputs.cache
+D:\CSharp\ArthurCsharpSolutions\RabbitMQ\WebApi.Domain\obj\Debug\net6.0\WebApi.Domain.AssemblyInfo.cs
+D:\CSharp\ArthurCsharpSolutions\RabbitMQ\WebApi.Domain\obj\Debug\net6.0\WebApi.Domain.csproj.CoreCompileInputs.cache
+D:\CSharp\ArthurCsharpSolutions\RabbitMQ\WebApi.Domain\obj\Debug\net6.0\WebApi.Domain.dll
+D:\CSharp\ArthurCsharpSolutions\RabbitMQ\WebApi.Domain\obj\Debug\net6.0\refint\WebApi.Domain.dll
+D:\CSharp\ArthurCsharpSolutions\RabbitMQ\WebApi.Domain\obj\Debug\net6.0\WebApi.Domain.pdb
+D:\CSharp\ArthurCsharpSolutions\RabbitMQ\WebApi.Domain\obj\Debug\net6.0\ref\WebApi.Domain.dll
